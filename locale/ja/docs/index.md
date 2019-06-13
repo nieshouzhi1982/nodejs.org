@@ -16,6 +16,7 @@ labels:
 <!-- * Frequently asked questions -->
 * API リファレンス
 * ES6 の機能
+* FAQ(ガイド)
 
 <!-- ### API Reference Documentation -->
 ### API リファレンス
